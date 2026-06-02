@@ -1,27 +1,8 @@
 # MY LAST ARCH Iso mylastarch
 
-To be able to build you install this package
+This iso has beem ported from my Carli-13 iso files .
 
-sudo pacman -S archiso
+That project was finished on 6/1/2026
 
-Download also the mylastarch keyring from github and install it with pacman -U.
-
-#https://github.com/arcolinuxiso/carli_repo/tree/master/x86_64
-
-https://github.com/mylastarch/mylastarch_repo/tree/main/x86_64
-
-
-Download the last version.
-Install with pacman -U nameofthefile
-
-Or run the script import-mylastarch-key.sh to download and sign it.
-
-Do check out the archiso.readme.
-
-Use the correct version of archiso.
-
-Start building your own mylastarch version with the use of the scripts
-
----
-
+This project continues to make the distro that will called MYLASTARCH
 

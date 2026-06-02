@@ -157,7 +157,9 @@ yay-bin
 fastfetch
 
 #Software
+alacritty
 sublime-text-4
+meld
 cairo-dock
 cairo-dock-plug-ins
 
@@ -181,7 +183,6 @@ adw-gtk-theme
 vimix-cursors
 
 #desktop related
-#mylastarch-xfce-config
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk

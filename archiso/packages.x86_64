@@ -133,21 +133,24 @@ zsh
 #mylastarch-grub-poly-light
 mylastarch-viper-grub-theme
 bash-completion
+plasma-meta
+#kde-applications-meta
+konsole
+packagekit-qt6
 sddm
 #sddm-elegant-theme-git
 mylastarch-sddm-viper-theme
-budgie
-nautilus
-gnome-terminal
-dconf-editor
-kcrash
+partitionmanager
+dolphin
+kate
+kio-admin
 #mylastarch-keyring
 
 #calamares
 calamares
 mylastarch-calamares-config
 #mylastarch-calamares-qml-config
-#mylastarch-system-installation
+mylastarch-system-installation
 #mylastarch-mirrorlist
 kcrash
 yay-bin
@@ -180,8 +183,6 @@ adw-gtk-theme
 vimix-cursors
 
 #desktop related
-#mylastarch-xfce-config
-#mylastarch-cinnamon-config
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk
