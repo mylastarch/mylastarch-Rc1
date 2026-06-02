@@ -139,7 +139,7 @@ packagekit-qt6
 plasma-login-manager
 #sddm
 #sddm-elegant-theme-git
-mylastarch-sddm-viper-theme
+#mylastarch-sddm-viper-theme
 partitionmanager
 dolphin
 kate
