@@ -1,0 +1,168 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=-0.9
+ColorEffect=1
+ContrastAmount=0.25
+ContrastEffect=2
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=215,142,165
+BackgroundNormal=223,220,217
+DecorationFocus=213,109,143
+DecorationHover=213,109,143
+ForegroundActive=213,109,143
+ForegroundInactive=137,136,135
+ForegroundLink=166,72,105
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=34,31,30
+ForegroundPositive=0,110,40
+ForegroundVisited=100,74,155
+
+[Colors:Complementary]
+BackgroundAlternate=196,224,255
+BackgroundNormal=24,21,19
+DecorationFocus=213,109,143
+DecorationHover=213,109,143
+ForegroundActive=213,109,143
+ForegroundInactive=137,136,135
+ForegroundLink=213,109,143
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=231,253,255
+ForegroundPositive=0,110,40
+ForegroundVisited=150,111,232
+
+[Colors:Selection]
+BackgroundAlternate=225,152,176
+BackgroundNormal=225,152,176
+DecorationFocus=213,109,143
+DecorationHover=213,109,143
+ForegroundActive=213,109,143
+ForegroundInactive=0,0,0
+ForegroundLink=166,72,105
+ForegroundNegative=156,14,14
+ForegroundNeutral=255,221,0
+ForegroundNormal=0,0,0
+ForegroundPositive=128,255,128
+ForegroundVisited=69,40,134
+
+[Colors:Tooltip]
+BackgroundAlternate=196,224,255
+BackgroundNormal=24,21,19
+DecorationFocus=213,109,143
+DecorationHover=213,109,143
+ForegroundActive=213,109,143
+ForegroundInactive=137,136,135
+ForegroundLink=213,109,143
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=231,253,255
+ForegroundPositive=0,110,40
+ForegroundVisited=150,111,232
+
+[Colors:View]
+BackgroundAlternate=248,247,246
+BackgroundNormal=255,255,255
+DecorationFocus=213,109,143
+DecorationHover=213,109,143
+ForegroundActive=213,109,143
+ForegroundInactive=137,136,135
+ForegroundLink=166,72,105
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=31,28,27
+ForegroundPositive=0,110,40
+ForegroundVisited=100,74,155
+
+[Colors:Window]
+BackgroundAlternate=218,217,216
+BackgroundNormal=214,210,208
+DecorationFocus=213,109,143
+DecorationHover=213,109,143
+ForegroundActive=213,109,143
+ForegroundInactive=137,136,135
+ForegroundLink=166,72,105
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=34,31,30
+ForegroundPositive=0,110,40
+ForegroundVisited=100,74,155
+
+[General]
+AccentColor=213,109,143
+BrowserApplication=vivaldi-stable.desktop
+ColorSchemeHash=13c1d65f7e035b7a5ce8e78308f798fa915ddb98
+LastUsedCustomAccentColor=61,174,233
+TerminalApplication=alacritty
+TerminalService=Alacritty.desktop
+UseSystemBell=true
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=none
+accentColorFromWallpaper=true
+font=Noto Sans,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=BigSur
+
+[KDE]
+LookAndFeelPackage=com.github.vinceliuice.WhiteSur
+ShowDeleteCommand=true
+contrast=7
+frameContrast=0.2
+widgetStyle=Oxygen
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=195
+View Style=DetailTree
+
+[KScreen]
+ScaleFactor=1.5
+ScreenScaleFactors=eDP-1=1.5;
+XwaylandClientsScale=false
+
+[Locale]
+TimeFormat=h:mm:ss ap
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=48,174,232
+activeBlend=214,210,208
+activeFont=Noto Sans,16,-1,5,700,0,0,0,0,0,0,0,0,0,0,1,Bold,0,0
+activeForeground=255,255,255
+inactiveBackground=224,223,222
+inactiveBlend=217,209,206
+inactiveForeground=75,71,67
