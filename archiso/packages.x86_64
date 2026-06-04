@@ -46,7 +46,7 @@ jfsutils
 kitty-terminfo
 ldns
 less
-lftp
+#lftp
 libfido2
 libusb-compat
 linux
@@ -158,10 +158,12 @@ fastfetch
 
 #Software
 alacritty
+libreoffice-fresh
 sublime-text-4
 meld
 cairo-dock
 cairo-dock-plug-ins
+strawberry
 
 #sound
 pipewire
