@@ -159,6 +159,8 @@ fastfetch
 #Software
 alacritty
 libreoffice-fresh
+masterpdfeditor-free
+pamac
 sublime-text-4
 meld
 cairo-dock
@@ -185,6 +187,7 @@ adw-gtk-theme
 vimix-cursors
 
 #desktop related
+appmenu-gtk-module
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk

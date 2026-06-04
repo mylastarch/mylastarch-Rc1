@@ -257,7 +257,7 @@ wallpaperplugin=org.kde.slideshow
 
 [Containments][208][Wallpaper][org.kde.slideshow][General]
 SlideInterval=300
-SlidePaths=/home/demo/.config/variety/Downloaded/
+SlidePaths=/home/$USER/.config/variety/Downloaded/
 
 [Containments184Appletsts][209][Configuration][General]
 customButtonImage=launchpad
