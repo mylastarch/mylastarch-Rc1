@@ -162,6 +162,7 @@ libreoffice-fresh
 masterpdfeditor-free
 pamac
 sublime-text-4
+thunderbird
 meld
 cairo-dock
 cairo-dock-plug-ins
@@ -192,6 +193,7 @@ gvfs
 gvfs-smb
 xdg-user-dirs-gtk
 lsb-release
+qt5-tools
 vivaldi
 variety
 
