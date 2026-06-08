@@ -252,13 +252,24 @@ formfactor=0
 immutability=1
 lastScreen=0
 location=0
-plugin=org.kde.desktopcontainment
-wallpaperplugin=org.kde.slideshow
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
 
-[Containments][1][Wallpaper][org.kde.slideshow]
-SlidePaths=$HOME/.config/variety/Downloaded
-SlideInterval=300
+[Containments][211][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
 
-[Containments][1][Wallpaper][org.kde.slideshow][General]
-SlidePaths=#HOME/.config/variety/Downloaded
-SlideInterval=300
+[Containments][211][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/MyLastArch/contents/images/mylastarch.png
+SlidePaths=/usr/share/wallpapers/
+
+[Containments184Appletsts][209][Configuration][General]
+customButtonImage=launchpad
+favoritesPortedToKAstats=true
+showRecentApps=false
+showRecentDocs=false
+useCustomButtonImage=true
+
+[ScreenMapping]
+itemsOnDisabledScreens=
+screenMapping=desktop:/calamares.desktop,0,674fb4df-d779-4fb7-a3bd-e63a58438e57,desktop:/import-mylastarch-key.sh,0,674fb4df-d779-4fb7-a3bd-e63a58438e57,desktop:/import-mylastarch-key.sh,0,d1abc327-38b6-4040-be5f-04dbbef7a2cb,desktop:/calamares.desktop,0,4ccc3168-4aea-4943-98ba-15b57b0a9899,desktop:/import-mylastarch-key.sh,0,4ccc3168-4aea-4943-98ba-15b57b0a9899,desktop:/session.log,0,366b8ebb-62d5-492d-8ebf-8814fe56e72d,desktop:/calamares.desktop,0,d1abc327-38b6-4040-be5f-04dbbef7a2cb

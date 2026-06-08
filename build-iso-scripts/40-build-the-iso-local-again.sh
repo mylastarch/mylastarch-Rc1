@@ -17,8 +17,8 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="budgie"
-	dmDesktop="budgie-desktop"
+	desktop="plasma"
+	dmDesktop="plasma"
 
 	#mylastarchVersion='26.05.31'
 
@@ -211,20 +211,20 @@ echo
 
 	#profiledef.sh
 	oldname1='iso_name="mylastarch'
-	newname1='iso_name="mylastarch'
+	newname1='iso_name="mylastarch-Rc1'
 
 	oldname2='iso_label="mylastarch'
-	newname2='iso_label="mylastarch'
+	newname2='iso_label="mylastarch-Rc1'
 
 	oldname3='mylastarch'
-	newname3='mylastarch'
+	newname3='mylastarch-Rc1'
 
 	#hostname
 	oldname4='mylastarch'
-	newname4='mylastarch'
+	newname4='mylastarch-Rc1'
 
 	#sddm.conf user-session
-	oldname5='Session=budgie'
+	oldname5='Session=plasma'
 	newname5='Session='$dmDesktop
 
 	echo "Changing all references"
@@ -264,6 +264,7 @@ echo
 
 	[ -d $outFolder ] || mkdir $outFolder
 	cd $buildFolder/archiso/
+	
 	sudo mkarchiso -v -w $buildFolder -o $outFolder $buildFolder/archiso/
 
 
