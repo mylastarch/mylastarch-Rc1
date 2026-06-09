@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=/usr/local/bin/set-live-wallpaper.sh
-Hidden=false
-X-GNOME-Autostart-enabled=true
-Name=Set Live Wallpaper
-X-KDE-autostart-phase=Application

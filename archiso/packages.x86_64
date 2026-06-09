@@ -135,7 +135,7 @@ mylastarch-viper-grub-theme
 bash-completion
 plasma-meta
 konsole
-packagekit-qt6
+#packagekit-qt6
 plasma-login-manager
 sddm
 #sddm-elegant-theme-git
@@ -144,7 +144,7 @@ partitionmanager
 dolphin
 kate
 kio-admin
-kde-cli-tools
+#kde-cli-tools
 #mylastarch-keyring
 
 #calamares
@@ -168,6 +168,7 @@ meld
 cairo-dock
 cairo-dock-plug-ins
 strawberry
+xscreensaver
 
 #sound
 pipewire

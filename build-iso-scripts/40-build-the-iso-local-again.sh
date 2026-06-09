@@ -22,7 +22,7 @@ echo
 
 	#mylastarchVersion='26.05.31'
 
-	isoLabel='mylastarch-'$(date +%Y.%m.%d)'-x86_64.iso'
+	isoLabel='mylastarch-Rc1-'$(date +%Y.%m.%d)'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 88-1"
@@ -264,7 +264,6 @@ echo
 
 	[ -d $outFolder ] || mkdir $outFolder
 	cd $buildFolder/archiso/
-	
 	sudo mkarchiso -v -w $buildFolder -o $outFolder $buildFolder/archiso/
 
 

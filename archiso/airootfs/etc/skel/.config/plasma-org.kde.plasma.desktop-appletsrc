@@ -5,6 +5,14 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
+[Containments][1][Wallpaper][org.kde.slideshow]
+SlideInterval=300
+SlidePaths=$HOME/.config/variety/Downloaded
+
+[Containments][1][Wallpaper][org.kde.slideshow][General]
+SlideInterval=300
+SlidePaths=#HOME/.config/variety/Downloaded
+
 [Containments][162]
 activityId=
 formfactor=2
@@ -244,21 +252,23 @@ favoritesPortedToKAstats=true
 [Containments][162][General]
 AppletOrder=164;196;183;195;205;167;206;168;201;181;199;180;204;207
 
-[Containments][211]
+[Containments][212]
 ItemGeometries-1280x800=
 ItemGeometriesHorizontal=
-activityId=4ccc3168-4aea-4943-98ba-15b57b0a9899
+activityId=6ba28898-73dc-4c33-8435-dba7e4070ac3
 formfactor=0
 immutability=1
 lastScreen=0
 location=0
-plugin=org.kde.desktopcontainment
+plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
-[Containments][1][Wallpaper][org.kde.slideshow]
-SlidePaths=$HOME/.config/variety/Downloaded
-SlideInterval=300
+[Containments][212][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/MyLastArch/contents/images/mylastarch.png
 
-[Containments][1][Wallpaper][org.kde.slideshow][General]
-SlidePaths=#HOME/.config/variety/Downloaded
+[Containments][212][Wallpaper][org.kde.slideshow][General]
 SlideInterval=300
+SlidePaths=$HOME.config/variety/Downloaded/
+
+[ScreenMapping]
+itemsOnDisabledScreens=
