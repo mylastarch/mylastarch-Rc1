@@ -170,6 +170,9 @@ cairo-dock-plug-ins
 strawberry
 xscreensaver
 
+#network
+b43-firmware
+
 #sound
 pipewire
 pipewire-media-session
