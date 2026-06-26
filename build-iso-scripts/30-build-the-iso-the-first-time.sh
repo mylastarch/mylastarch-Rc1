@@ -22,7 +22,7 @@ echo
 
 	#mylastarchVersion='26.05.31'
 
-	isoLabel='mylastarch-'$(date +%Y.%m.%d)'-x86_64.iso'
+	isoLabel='mylastarch-Rc2-'$(date +%Y.%m.%d)'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 88-1"
@@ -210,18 +210,18 @@ echo
 	#Setting variables
 
 	#profiledef.sh
-	oldname1='iso_name="mylastarch'
-	newname1='iso_name="mylastarch'
+	oldname1='iso_name="mylastarch-Rc1'
+	newname1='iso_name="mylastarch-Rc2'
 
-	oldname2='iso_label="mylastarch'
-	newname2='iso_label="mylastarch'
+	oldname2='iso_label="mylastarch-Rc1'
+	newname2='iso_label="mylastarch-Rc2'
 
-	oldname3='mylastarch'
-	newname3='mylastarch'
+	oldname3='mylastarch-Rc1'
+	newname3='mylastarch-Rc2'
 
 	#hostname
-	oldname4='mylastarch'
-	newname4='mylastarch'
+	oldname4='mylastarch-Rc1'
+	newname4='mylastarch-Rc2'
 
 	#sddm.conf user-session
 	oldname5='Session=plasma'
